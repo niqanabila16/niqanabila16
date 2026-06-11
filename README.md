@@ -19,13 +19,13 @@
 I'm a passionate **Data Scientist** and **Machine Learning Engineer** with a deep interest in **Computer Vision** and **AI-driven solutions**. I love turning complex data into actionable insights and building models that make a real-world impact.
 
 - 🎓 **Final Year** D4 Computer Science Student at **Politeknik Negeri Bandung**
-- 🔬 **Currently Working On:** Capstone Project - *Data Augmentation & U-Net Architecture Modifications for MSC Confluence Estimation via Semantic Segmentation*
-- 🌟 **Ongoing:** **AWS AI Academy 2026** - Deepening expertise in cloud-based AI solutions
+- 🔬 **Currently Working On:** Final Project - *Data Augmentation & U-Net Architecture Modifications for MSC Confluence Estimation via Semantic Segmentation*
 - 💼 **Experience:** 
   - Former Software Engineer Intern & Guest Technical Trainer at **BMKG** (Indonesian Meteorological, Climatological & Geophysical Agency)
   - Virtual Project-based Intern at **Home Credit Indonesia**
+  - Software Engineering Fellow at Headstarter AI (2024)
 - 🌍 **Passionate About:** UN Sustainable Development Goals (SDGs), Climate Literacy, International Leadership *(Rise Young Leaders Summit Japan 2025 Delegate)*
-- ⚡ **Fun Fact:** Dedicated cat lover 🐈 | Coffee enthusiast ☕ | Always learning something new!
+- ⚡ **Fun Fact:** Dedicated cat lover 🐈 | Tea enthusiast 🍵 | Always learning something new!
 
 ---
 
