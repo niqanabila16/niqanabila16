@@ -64,59 +64,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with a dee
   
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niqanabila16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF&count_private=true" alt="GitHub Stats" />
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niqanabila16&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqanabila16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 Highlights & Achievements
-
-<div align="center">
-  
-  | 🎓 | 💼 | 🌟 |
-  |---|---|---|
-  | **Final Year** Student | **Data Science** Focus | **AWS AI Academy** |
-  | Capstone Project in Progress | ML & Computer Vision | Cloud AI Expertise |
-  | Politeknik Negeri Bandung | BMKG & Home Credit | International Delegate |
-  
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🔍 MSC Confluence Estimation</h3>
-        <p><i>Semantic Segmentation with U-Net</i></p>
-        <p>Capstone project combining data augmentation techniques with modified U-Net architecture for climate analysis</p>
-      </td>
-      <td align="center">
-        <h3>📊 Data Science Portfolio</h3>
-        <p><i>ML & Data Analysis Projects</i></p>
-        <p>Collection of end-to-end projects showcasing data preprocessing, model training, and deployment</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🌐 Let's Connect!
 
 <div align="center">
