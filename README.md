@@ -5,8 +5,8 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/niqanabila16?style=social&label=Follow)](https://github.com/niqanabila16)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/)
-  [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/NiqaNabila))
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:niqanabila06@gmail.com)
   
 </div>
 
