@@ -19,7 +19,6 @@
 I'm a passionate **Data Scientist** and **Machine Learning Engineer** with a deep interest in **Computer Vision** and **AI-driven solutions**. I love turning complex data into actionable insights and building models that make a real-world impact.
 
 - 🎓 Applied Bachelor's degree in Informatics Engineer at **Politeknik Negeri Bandung**
-- 🔬 **Currently Working On:** Final Project - *Data Augmentation & U-Net Architecture Modifications for MSC Confluence Estimation via Semantic Segmentation*
 - 💼 **Experience:** 
   - Former Software Engineer Intern & Guest Technical Trainer at **BMKG** (Indonesian Meteorological, Climatological & Geophysical Agency)
   - Virtual Project-based Intern at **Home Credit Indonesia**
