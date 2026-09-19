@@ -12,161 +12,106 @@
 
 ---
 
-<div align="center">
-
 ## 🎯 About Me
 
-</div>
+I'm a **Computer and Informatics Engineering graduate** with hands-on experience across **Data Analytics, Business Analysis, Data Science, Machine Learning, AI, and Software Engineering**.
 
-<div align="center">
-
-I'm a **Computer and Informatics Engineering graduate** with hands-on experience in **Data Analytics, Business Analysis, Data Science, Machine Learning, AI, and Software Engineering**.
-
-I enjoy working with data to understand problems, identify patterns, build practical solutions, and turn technical findings into useful insights for decision-making.
+I enjoy working with data to understand problems, identify patterns, develop practical solutions, and translate technical findings into useful insights for decision-making.
 
 My experience includes **credit risk modeling, deep learning and computer vision, LLM-powered applications, system analysis, full-stack development, database management, and software testing**.
 
-</div>
-
-<div align="center">
-
-🎓 Applied Bachelor's Degree in Computer Engineering and Informatics at **Politeknik Negeri Bandung**
-
-💼 Former **Data Scientist Project-Based Intern at Home Credit Indonesia**, **Software Engineer Intern at BMKG**, and **Software Engineering Specialist at Headstarter AI**
-
-📊 Interested in **Data Analytics, Business Analysis, Data Science, Machine Learning, and AI**
-
-🌱 Always learning and building projects that connect **data, technology, and real-world problems**
-
-</div>
+- 🎓 Applied Bachelor's Degree in Computer Engineering and Informatics — **Politeknik Negeri Bandung**
+- 💼 Data Scientist Project-Based Intern — **Home Credit Indonesia**
+- 💻 Software Engineer Intern & Guest Technical Trainer — **BMKG**
+- 🤖 Software Engineering Specialist — **Headstarter AI**
+- 📊 Interested in **Data Analytics, Business Analysis, Data Science, Machine Learning, and AI**
 
 ---
 
 <div align="center">
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 </div>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 💳 Credit Score Prediction
-
-<a href="https://github.com/niqanabila16/Credit-Score-Prediction">
-<img src="https://img.shields.io/badge/View%20Project-2196F3?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
+### 💳 [Credit Score Prediction](https://github.com/niqanabila16/Credit-Score-Prediction)
 
 Machine learning project for **customer credit risk prediction** using the Home Credit dataset.
 
-The project focuses on data preprocessing, class imbalance handling, Logistic Regression and LightGBM comparison, model evaluation using ROC-AUC and PR-AUC, feature importance analysis, and business recommendations.
+The project focuses on data preprocessing, class imbalance handling, model comparison between Logistic Regression and LightGBM, model evaluation using ROC-AUC and PR-AUC, feature importance analysis, and translating model findings into business recommendations.
 
-**Python · Pandas · Scikit-learn · LightGBM**
+**Tech:** `Python` `Pandas` `Scikit-learn` `LightGBM`
 
-</td>
+---
 
-<td width="50%" align="center">
-
-### 🧬 MSC Cell Segmentation
-
-<a href="https://github.com/niqanabila16/msc-cell-segmentation">
-<img src="https://img.shields.io/badge/View%20Project-2196F3?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
+### 🧬 [MSC Cell Segmentation](https://github.com/niqanabila16/msc-cell-segmentation)
 
 Deep learning project for **mesenchymal stem cell image segmentation and confluence estimation**.
 
-The project explores U-Net and SAM 2 with experiments covering model architecture, training configuration, preprocessing, data augmentation, and segmentation evaluation using Dice and IoU.
+The project explores U-Net and SAM 2 through experiments involving model architecture, training configuration, preprocessing, data augmentation, and segmentation evaluation using Dice and IoU.
 
-**Python · PyTorch · U-Net · SAM 2**
+**Tech:** `Python` `PyTorch` `U-Net` `SAM 2` `Computer Vision`
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" align="center">
+### 🎬 [DramaKu — Web Development Project](https://github.com/MahardikaPratama/Webdev-Praktikum)
 
-### 🎬 DramaKu
+**DramaKu** is a web platform designed for drama and TV series enthusiasts, similar to IMDb. The application provides comprehensive information about dramas, actors, ratings, reviews, genres, awards, and users.
 
-<a href="https://github.com/MahardikaPratama/Webdev-Praktikum">
-<img src="https://img.shields.io/badge/View%20Project-2196F3?style=for-the-badge&logo=github&logoColor=white">
-</a>
+#### Main Features
 
-<br><br>
-
-A web platform for **drama and TV series enthusiasts**, similar to IMDb.
-
-Features include drama search and filtering, drama details, reviews, ratings, user authentication, wishlist, CMS, CRUD operations, validation, dashboard statistics, and multi-entity management.
+- **Main Page:** Displays dramas with search and filtering functionality.
+- **Drama Details:** Provides synopsis, ratings, cast, reviews, and other information.
+- **Search & Filter:** Search dramas by title, genre, or release year.
+- **CMS:** Management of dramas, actors, countries, genres, comments, awards, and users.
+- **User Features:** Registration, login including Google authentication, wishlist, and profile management.
+- **Validation:** Validation for dramas and reviews, including user restriction based on platform policies.
+- **CRUD:** Create, read, update, and delete operations across multiple entities.
+- **Dashboard:** Statistics for dramas, actors, genres, comments, and users.
 
 The application uses data sourced from **The Movie Database (TMDb)**.
 
-**React · Node.js · Express.js · PostgreSQL · TailwindCSS**
+**Tech:** `React` `Node.js` `Express.js` `PostgreSQL` `TailwindCSS` `Axios` `React Query` `React Router` `JWT` `Bcrypt`
 
-</td>
+[🌐 Live Demo — DramaKu](https://dramaku.vercel.app/)
 
-<td width="50%" align="center">
+---
 
-### 💄 Real-Time Virtual Makeup
+### 💄 [Real-Time Virtual Makeup](https://github.com/niqanabila16/Realtime-Virtual-Makeup-MediaPipe)
 
-<a href="https://github.com/niqanabila16/Realtime-Virtual-Makeup-MediaPipe">
-<img src="https://img.shields.io/badge/View%20Project-2196F3?style=for-the-badge&logo=github&logoColor=white">
-</a>
+An interactive desktop application for **real-time virtual makeup trials using Augmented Reality (AR)**.
 
-<br><br>
+The application uses **MediaPipe** for facial landmark detection and **OpenCV** for image processing, with features including:
 
-An interactive desktop application for **real-time and static virtual makeup** using Augmented Reality.
+- Real-time and static image modes
+- Skin tone analysis
+- XYZ color harmony scoring
+- Lipstick, eyebrow, eyeliner, and eyeshadow application
+- Tkinter-based graphical user interface
 
-The system uses MediaPipe for facial landmark detection and OpenCV for image processing, with features including skin tone analysis and XYZ color harmony scoring.
+This project was also developed as part of research on virtual makeup applications.
 
-This project was also developed as part of a research paper on real-time virtual makeup applications.
+**Tech:** `Python` `MediaPipe` `OpenCV` `Tkinter`
 
-**Python · MediaPipe · OpenCV · Tkinter**
+---
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🌐 Station Quality
-
-<a href="https://github.com/niqanabila16/Station-Quality">
-<img src="https://img.shields.io/badge/View%20Project-2196F3?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
+### 🌐 [Station Quality](https://github.com/niqanabila16/Station-Quality)
 
 A web-based system developed during my experience at **BMKG**, involving system analysis, station-related data, backend integration, and application development.
 
-The project demonstrates experience in translating technical requirements into a working software system.
+The project demonstrates experience in translating operational requirements into working software and integrating frontend, backend, and database components.
 
-**TypeScript · React · Node.js · MySQL**
+**Tech:** `TypeScript` `React` `Node.js` `MySQL`
 
-</td>
+---
 
-<td width="50%" align="center">
+### 📊 [Jobstreet Data Analyst Market](https://github.com/niqanabila16/jobstreet-data-analyst-market)
 
-### 📊 Jobstreet Data Analyst Market
+A data analysis project focused on exploring the **Data Analyst job market** using collected job listing data.
 
-<a href="https://github.com/niqanabila16/jobstreet-data-analyst-market">
-<img src="https://img.shields.io/badge/View%20Project-2196F3?style=for-the-badge&logo=github&logoColor=white">
-</a>
+The project covers data preparation, exploratory analysis, visualization, and extraction of insights from job-market information.
 
-<br><br>
-
-Data analysis project focused on exploring the **Data Analyst job market** using collected job listing data.
-
-The project covers data preparation, exploratory analysis, visualization, and extracting insights from job-market information.
-
-**Python · Pandas · Data Analysis · Visualization**
-
-</td>
-</tr>
-</table>
+**Tech:** `Python` `Pandas` `Data Analysis` `Data Visualization`
 
 ---
 
@@ -227,8 +172,8 @@ The project covers data preparation, exploratory analysis, visualization, and ex
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-`Black Box Testing` · `API Testing` · `Test Case Design`
-`Equivalence Class Partitioning` · `Boundary Value Analysis`
+`Black Box Testing` · `API Testing` · `Test Case Design`  
+`Equivalence Class Partitioning` · `Boundary Value Analysis`  
 `Requirement Traceability Matrix` · `Bug Tracking` · `UAT`
 
 ### Development & Collaboration
@@ -243,59 +188,39 @@ The project covers data preparation, exploratory analysis, visualization, and ex
 
 ---
 
-<div align="center">
-
 ## 💼 Experience
 
-</div>
+### Data Scientist — Home Credit Indonesia x Rakamin Academy
 
-<div align="center">
+**Feb 2026 – Mar 2026**
 
-**Data Scientist — Home Credit Indonesia x Rakamin Academy**  
-*Project-Based Virtual Intern · Feb 2026 – Mar 2026*
+Developed and evaluated machine learning models for customer credit risk prediction, with a focus on class imbalance, false-positive analysis, model evaluation, feature importance, and business recommendations.
 
-**Software Engineer Intern — BMKG**  
-*Jun 2025 – Oct 2025*
+### Software Engineer Intern — BMKG
 
-**Guest Technical Trainer — BMKG**  
-*Nov 2025*
+**Jun 2025 – Oct 2025**
 
-**Software Engineering Specialist — Headstarter AI**  
-*Jul 2024 – Sep 2024*
+Developed web systems involving full-stack development, REST API integration, database design, Redis caching, Docker, legacy PHP refactoring, and system analysis.
 
-</div>
+### Guest Technical Trainer — BMKG
 
----
+**Nov 2025**
 
-<div align="center">
+Invited as a paid Subject Matter Expert to conduct technical training for 20+ staff in Web Development fundamentals and Agile methodologies.
 
-## 🏆 Achievements & Leadership
+### Software Engineering Specialist — Headstarter AI
 
-</div>
+**Jul 2024 – Sep 2024**
 
-<div align="center">
-
-🥈 **2nd Runner-Up — National SDGs Essay Competition 2026**
-
-🌏 **Regional Youth Leadership Summit (RYLS) International 2025 — Scholarship Awardee**
-
-🎤 **Guest Technical Trainer / Subject Matter Expert — BMKG**
-
-👥 **Deputy Head of Social Management — Assalam Polytechnic Bandung**
-
-</div>
+Participated in a 7-week international fellowship and developed multiple full-stack and AI-powered applications using technologies including Next.js, OpenAI, and Firebase.
 
 ---
 
-<div align="center">
+## 🏆 Achievements
 
-## 🌱 Interests
-
-**Data Analytics** · **Business Analysis** · **Data Science**  
-**Machine Learning** · **Artificial Intelligence** · **Computer Vision**  
-**Business Intelligence** · **Data-Driven Decision Making**
-
-</div>
+- 🥈 **2nd Runner-Up — National SDGs Essay Competition 2026**
+- 🌏 **Regional Youth Leadership Summit (RYLS) International 2025 — Scholarship Awardee**
+- 🎤 **Guest Technical Trainer / Subject Matter Expert — BMKG**
 
 ---
 
@@ -303,23 +228,18 @@ The project covers data preparation, exploratory analysis, visualization, and ex
 
 ## 🌐 Let's Connect!
 
-<p>
-<a href="https://www.linkedin.com/in/niqanabila/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+I'm open to opportunities and collaborations in **Data Analytics, Business Analysis, Data Science, AI, and technology-driven problem solving.**
 
-<a href="mailto:niqanabila06@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
+<br>
 
-<p>
-<b>I'm open to opportunities and collaborations in Data Analytics, Business Analysis, Data Science, AI, and technology-driven problem solving.</b>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niqanabila/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niqanabila06@gmail.com)
+
+<br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=niqanabila16.niqanabila16)
 
-<br>
+<br><br>
 
 <i>Let's build something meaningful with data and technology.</i>
 
@@ -328,7 +248,7 @@ The project covers data preparation, exploratory analysis, visualization, and ex
 ---
 
 <div align="center">
-  <sub>⭐ If you find any of my projects interesting, feel free to explore the repositories.</sub>
+  <sub>⭐ Feel free to explore my repositories and projects.</sub>
   <br>
   <sub>Last Updated: September 2026</sub>
 </div>
