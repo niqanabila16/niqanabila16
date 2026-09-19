@@ -32,10 +32,6 @@ My experience includes **credit risk modeling, deep learning and computer vision
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-## 🚀 Featured Projects
-
 </div>
 
 <table>
