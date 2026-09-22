@@ -380,7 +380,6 @@ Participated in a 7-week international fellowship and developed multiple full-st
 
 - 🥈 **2nd Runner-Up — National SDGs Essay Competition 2026**
 - 🌏 **Regional Youth Leadership Summit (RYLS) International 2025 — Scholarship Awardee**
-- 🎤 **Guest Technical Trainer / Subject Matter Expert — BMKG**
 
 ---
 
